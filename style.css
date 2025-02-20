@@ -1,0 +1,34 @@
+body{
+    background-color: blanchedalmond;
+}
+#info{
+    text-align: center;
+}
+#hobby{
+    font-style: italic;
+}
+#My_skills{
+    font-style: italic;
+}
+.one{
+    color: cadetblue;
+}
+.two{
+    color: rgb(71, 161, 131);
+}
+.three{
+    color: darkcyan;
+}
+.a{
+    color: cornflowerblue;
+}
+.b{
+    color: deepskyblue;
+}
+.c{
+    color: dodgerblue;
+}
+h1{
+    font-style: italic;
+    color: black;
+}
